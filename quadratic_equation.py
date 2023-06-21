@@ -17,3 +17,5 @@ class QuadraticEquationSolver:
             (-self.b + d ** 0.5) / (2 * self.a),
             (-self.b - d ** 0.5) / (2 * self.a),
         ]
+
+GHAT="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"
